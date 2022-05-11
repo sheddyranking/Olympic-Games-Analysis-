@@ -1,2 +1,2 @@
 # Olympic-Games-Analysis-
-Olympic Games Analysis Witht (SQL and PowerBI)
+Olympic Games Analysis Project With (SQL and PowerBI)
