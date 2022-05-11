@@ -20,7 +20,9 @@ The Finished Dashboard Consist of Visualizations and Filters that gives an easy 
  
  `NO. of compititors = DISTINCTCOUNT(Olympic Games data[ID])`
  
- `NO OF Medals = COUNTROWS(Olympic Games Data)`
+ `NO OF Medals = COUNTROWS(Olympic Games Data)` 
+ 
+ > A later selection was done with DAX to return only registered Medals.. this was used in Visualizations.
  
  ![Calculation](https://user-images.githubusercontent.com/42388234/167878451-ab12185e-7122-40f7-b080-4a47de80e27b.png)
  
